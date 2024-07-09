@@ -2,16 +2,16 @@
 **COMPANY:** CODETECH IT SOLUTIONS
 **ID:** CT08DS1997
 **DOMAIN:** Machine Learning
-**DURATION:** 10 June to 10 July
+**DURATION:** 10 June to 10 July 2024
 **MENTOR:** MUZAMMIL Sir
 
 
-#PROJECT: Movie Review Sentiment Analysis
+# PROJECT: Movie Review Sentiment Analysis
 
-##Objective:
+## Objective:
 The objective of this project is to automatically classify the sentiment in a given movie review text into categories such as positive or negative.
 
-##Technologies used:
+## Technologies used:
 1.Python
 2.Pandas
 3.Matplotlib
