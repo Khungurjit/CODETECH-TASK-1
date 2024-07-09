@@ -5,8 +5,7 @@
 **DURATION:** 10 June to 10 July 2024<br/>
 **MENTOR:** MUZAMMIL Sir<br/>
 
-
-# PROJECT: Movie Review Sentiment Analysis
+# PROJECT: Analysis On Movie Reviews
 
 ## Objective:
 The objective of this project is to automatically classify the sentiment in a given movie review text into categories such as positive or negative.
@@ -20,7 +19,4 @@ The objective of this project is to automatically classify the sentiment in a gi
 * Streamlit
 
 ## Output of the projet
-<img src="C:\Users\Jitu\Pictures\Screenshots\task1.png">
-
-
-
+![task1](https://github.com/Khungurjit/CODETECH-TASK-1/assets/166041264/742ebef2-b1fc-489b-b85f-3b3c60f364bc)
